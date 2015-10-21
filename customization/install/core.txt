@@ -1,0 +1,12 @@
+binutils
+bzip2
+file
+htop
+less
+locales
+lsb-release
+lsof
+pciutils
+procps
+psmisc
+usbutils

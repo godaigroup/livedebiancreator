@@ -1,0 +1,5 @@
+lxrandr
+xfe
+roxterm
+diffuse
+slim

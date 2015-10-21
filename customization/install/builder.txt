@@ -1,0 +1,8 @@
+debootstrap
+syslinux
+squashfs-tools
+xorriso
+python2.7
+python-wxgtk2.8
+python-wxtools
+expect

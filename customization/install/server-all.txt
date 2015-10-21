@@ -1,0 +1,9 @@
+apache2
+nginx
+ntop
+openssh-server
+samba
+sendmail
+stunnel4
+vnc4server
+vsftpd

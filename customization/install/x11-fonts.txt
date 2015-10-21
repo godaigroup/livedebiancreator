@@ -1,0 +1,3 @@
+xfonts-100dpi
+xfonts-75dpi
+xfonts-scalable

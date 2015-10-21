@@ -1,0 +1,3 @@
+qemu
+qemu-kvm
+virt-manager

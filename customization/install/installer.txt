@@ -1,0 +1,3 @@
+debian-installer-launcher
+grub-pc
+debconf-utils

@@ -1,0 +1,15 @@
+dosfstools
+e2tools
+cryptsetup
+ecryptfs-utils
+fuse
+exfat-fuse
+exfat-utils
+ntfs-3g
+samba-common
+smbclient
+smbnetfs
+fuseext2
+fusefat
+fuseiso
+fusesmb

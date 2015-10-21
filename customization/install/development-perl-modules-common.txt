@@ -1,0 +1,7 @@
+libdbi-perl
+libclass-dbi-sqlite-perl
+libhttp-server-simple-perl
+libio-socket-ip-perl
+libio-socket-ssl-perl
+libsocket-perl
+liburi-perl
